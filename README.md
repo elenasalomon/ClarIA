@@ -3,7 +3,7 @@
 > Transformando quejas en soluciones estratégicas.
 
 **Deep Learning Project — Especialización en Ciencia de Datos e IA (UTEC – MIT)**  
-Martina Ibarra · Elena Salomón · Florencia Nebot · 2025
+Martina Ibarra · Elena Salomón · Florencia Nebot · 2026
 
 ---
 
