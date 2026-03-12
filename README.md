@@ -1,6 +1,6 @@
 # ClarIA: From Claims to Clarity
 
-> Transformando quejas en soluciones estratégicas.
+> Transformando quejas del sistema financiero en soluciones estratégicas.
 
 **Deep Learning Project — Especialización en Ciencia de Datos e IA (UTEC – MIT)**  
 Martina Ibarra · Elena Salomón · Florencia Nebot · 2026
